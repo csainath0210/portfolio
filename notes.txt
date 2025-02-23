@@ -1,5 +1,6 @@
 Design: https://www.figma.com/design/2udAhbtOQ9uT5jzPPTtsjN/Untitled?node-id=0-1&m=dev&t=ru4AcG6gcstpYZkw-1
 https://v0.dev/chat/portfolio-website-design-WKcAAC3k1cO?b=b_Z4akbMP7TOi
+https://www.figma.com/proto/MMuylwN0M23E2NKoQhuvkb/Portfolio?type=design&node-id=3-73&starting-point-node-id=3%3A73
 
 ChatGPT state: https://chatgpt.com/share/67ba3d1b-e188-800b-bab3-d8dc3d3fb658
 

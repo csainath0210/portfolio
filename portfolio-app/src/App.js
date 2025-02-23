@@ -1,7 +1,12 @@
-import React from 'react';
+import React from "react";
+import HeroPage from "./components/HeroPage";
 
 const App = () => {
-  return <div>Hello, world</div>
-}
+  return (
+    <div className="container">
+      <HeroPage />
+    </div>
+  );
+};
 
 export default App;
