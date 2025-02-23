@@ -1,0 +1,13 @@
+Design: https://www.figma.com/design/2udAhbtOQ9uT5jzPPTtsjN/Untitled?node-id=0-1&m=dev&t=ru4AcG6gcstpYZkw-1
+https://v0.dev/chat/portfolio-website-design-WKcAAC3k1cO?b=b_Z4akbMP7TOi
+
+ChatGPT state: https://chatgpt.com/share/67ba3d1b-e188-800b-bab3-d8dc3d3fb658
+
+Page structure
+<Header>
+<Screen>
+  <Hero Page>
+  <About>
+  <Sections>
+</Screen>
+<Footer>
